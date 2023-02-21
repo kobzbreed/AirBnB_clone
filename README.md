@@ -1,3 +1,1 @@
-AirBnB_clone
-A clone of the AirBnB Website
-start command ./console.py
+# AirBnB_clone web static
